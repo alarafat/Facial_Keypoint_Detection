@@ -21,6 +21,7 @@ __NB__ I have further extended this project in Python with C++ interface. The sc
 <p align="center">
   <img src="./images/Figure_keypoints_model_2_obamas.png" width='80%' height='50%' />
 </p>
+
 ---
 - To run training, use the *run_face_keypoint_detector_trainer.py* with arguments.
 - To run complete test on a saved pre-trained model, run *run_complete_test_pipeline.py* with arguments.
