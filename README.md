@@ -17,8 +17,11 @@ these keypoints are displayed below.
 __NB__ I have further extended this project in Python with C++ interface. The scope of
  the extended project is not limited to facial keypoint detection only. Furthermore, the
   extended project has also been tested on Android mobile.  
+  
+<p align="center">
+  <img src="./images/Figure_keypoints_model_2_obamas.png" width='80%' height='50%' />
+</p>
 
-![Facial Keypoint Detection](images/Figure_keypoints_model_2_obamas.png?raw=true)
 ---
 - To run training, use the *run_face_keypoint_detector_trainer.py* with arguments.
 - To run complete test on a saved pre-trained model, run *run_complete_test_pipeline.py* with arguments.
@@ -69,7 +72,10 @@ run_notebook.bat
 ```
 
 **Results**
-![Facial Keypoint Detection](images/Figure_keypoints_model.png?raw=true)
+
+<p align="center">
+  <img src="./images/Figure_keypoints_model.png" width='80%' height='50%' />
+</p>
 
 **Optional Results**
 <p align="center">
