@@ -6,7 +6,7 @@
 ## Accomplished as a required project for Udacity Computer Vision Nanodegree 
 
 ## Project Overview
-### Results are not generated from the model that has been trained. The original model that has been trained is not the same as the one included here. Thus, results might not be same.
+### Results are not generated from the model that has been trained. Thus, results might not be same.
 
 This is the first project from the course. In this project, 
 computer vision techniques and deep learning architectures are used together to build a facial keypoint detection system. Facial keypoints include points 
@@ -16,7 +16,7 @@ these keypoints are displayed below.
 
 __NB__ I have further extended this project in Python with C++ interface. The scope of
  the extended project is not limited to facial keypoint detection only. Furthermore, the
-  extended project has also been tested on Android mobile.  
+  extended project has also been deployed on Android mobile.  
 
 <p align="center">
   <img src="./images/Figure_keypoints_model_2_obamas.png" width='80%' height='50%' />
