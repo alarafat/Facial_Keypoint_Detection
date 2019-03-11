@@ -14,7 +14,7 @@ around the eyes, nose, and mouth on a face and are used in many applications. Th
 and emotion recognition. Your completed code should be able to look at any image, detect faces, and predict the locations of facial keypoints on each face; examples of 
 these keypoints are displayed below.
 
-__NB__ I have further extended this project in Python with C++ interface. The scope of
+__NB__ This project has been further extended in Python & Tensorflow with C++ interface. The scope of
  the extended project is not limited to facial keypoint detection only. Furthermore, the
   extended project has also been deployed on Android mobile.  
 
